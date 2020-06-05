@@ -3,4 +3,7 @@
 To download the Timer.app with the link[[https://github.com/michaelvillar/timer-app][ Timer]]
 ** Usage
  Keyword + "the length of time", e.g. "timer 3.14"
-[[file:Input-example.png][Usage]]
+#+caption: Usage
+#+attr_html: :width 400 px
+#+attr_html: :height 200 px
+[[./Input-example.png]]
