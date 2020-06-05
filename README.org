@@ -1,5 +1,6 @@
 * A Simple Timer Workflow for Alfred's user
 ** Preparation
-To download the Timer.app following the link[[https://github.com/michaelvillar/timer-app][ Timer]]
+To download the Timer.app with the link[[https://github.com/michaelvillar/timer-app][ Timer]]
 ** Usage
  Keyword + "the length of time", e.g. "timer 3.14"
+[[file:Input-example.png][Usage]]
